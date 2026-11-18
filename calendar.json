@@ -1,0 +1,46 @@
+{
+  "_comentario": "Cola de publicaciones. El publicador solo sube las que tienen status 'approved' y publish_at ya vencido. Cambia 'draft' a 'approved' cuando revises el texto. Horas en America/Santo_Domingo (-04:00).",
+  "posts": [
+    {
+      "id": "2026-11-19-nuevo-inicio",
+      "status": "draft",
+      "type": "carousel",
+      "publish_at": "2026-11-19T12:00:00-04:00",
+      "media": [
+        "media/carrusel-inicio-01.jpg",
+        "media/carrusel-inicio-02.jpg",
+        "media/carrusel-inicio-03.jpg",
+        "media/carrusel-inicio-04.jpg",
+        "media/carrusel-inicio-05.jpg",
+        "media/carrusel-inicio-06.jpg"
+      ],
+      "alt_text": [
+        "Tu negocio, de un vistazo: estrenamos un Inicio nuevo en PymeFácil. Tarjeta de ejemplo con ventas de hoy: RD$ 18,450.00.",
+        "Lo que vendiste hoy, primero. Tarjeta de ejemplo con RD$ 18,450.00 vendidos, 23 ventas y ticket promedio de RD$ 802.17.",
+        "Lo que necesita tu atención, a la vista. Ejemplo: 4 facturas vencidas por RD$ 12,300.00 y 6 productos con stock bajo.",
+        "Nueva venta en un toque. Botón verde con el texto Nueva venta.",
+        "Todo en una sola app: punto de venta, facturas, cobros, inventario, compras, clientes, comisiones y finanzas.",
+        "Actualiza y míralo en tu pyme. Link en la bio."
+      ],
+      "caption": "Estrenamos Inicio nuevo en PymeFácil.\n\nAhora, al abrir la app, ves lo que importa de tu negocio:\n\n• Cuánto vendiste hoy y cómo vas frente al mismo día de la semana pasada\n• Lo que necesita tu atención: facturas vencidas y productos por agotarse\n• Un botón de Nueva venta siempre a mano\n\nTodo en una sola app: punto de venta, facturas, cobros, inventario, compras, clientes, comisiones y finanzas.\n\nActualiza PymeFácil y cuéntanos qué te parece. Link en la bio.\n\n#PymeFácil #PymesRD #NegociosRD #EmprendedoresRD #RepúblicaDominicana #PuntoDeVenta #ERP"
+    },
+    {
+      "id": "2026-11-21-facturas-vencidas",
+      "status": "draft",
+      "type": "image",
+      "publish_at": "2026-11-21T11:00:00-04:00",
+      "media": ["media/post-facturas-vencidas.jpg"],
+      "alt_text": "Sabe quién te debe, sin buscar. Ejemplo de tarjeta con 4 facturas vencidas por RD$ 12,300.00 y 6 productos con stock bajo.",
+      "caption": "Sabe quién te debe, sin buscar.\n\nEn el Inicio nuevo de PymeFácil, tus facturas vencidas aparecen primero: cuántas son, cuál es la más vieja y cuánto suman. Así cobras a tiempo y el dinero no se queda en la calle.\n\nActualiza la app y míralo en tu pyme.\n\n#PymeFácil #PymesRD #NegociosRD #CobrosRD #EmprendedoresRD"
+    },
+    {
+      "id": "2026-11-24-stock-bajo",
+      "status": "draft",
+      "type": "image",
+      "publish_at": "2026-11-24T12:00:00-04:00",
+      "media": ["media/post-stock-bajo.jpg"],
+      "alt_text": "Que no se te acabe lo que más vendes. Ejemplo de aviso: 6 productos con stock bajo.",
+      "caption": "Que no se te acabe lo que más vendes.\n\nPymeFácil te avisa cuando un producto está por agotarse, antes de que pierdas la venta. Entra a Inventario y reabastece a tiempo.\n\n#PymeFácil #PymesRD #NegociosRD #InventarioRD #EmprendedoresRD"
+    }
+  ]
+}
