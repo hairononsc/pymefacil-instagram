@@ -41,6 +41,61 @@
       "media": ["media/post-stock-bajo.jpg"],
       "alt_text": "Que no se te acabe lo que más vendes. Ejemplo de aviso: 6 productos con stock bajo.",
       "caption": "Que no se te acabe lo que más vendes.\n\nPymeFácil te avisa cuando un producto está por agotarse, antes de que pierdas la venta. Entra a Inventario y reabastece a tiempo.\n\n#PymeFácil #PymesRD #NegociosRD #InventarioRD #EmprendedoresRD"
+    },
+    {
+      "id": "2026-11-28-primera-venta",
+      "status": "draft",
+      "type": "carousel",
+      "publish_at": "2026-11-28T12:00:00-04:00",
+      "media": [
+        "media/carrusel-primera-venta-01.jpg",
+        "media/carrusel-primera-venta-02.jpg",
+        "media/carrusel-primera-venta-03.jpg",
+        "media/carrusel-primera-venta-04.jpg",
+        "media/carrusel-primera-venta-05.jpg",
+        "media/carrusel-primera-venta-06.jpg"
+      ],
+      "alt_text": [
+        "Tu primera venta en PymeFácil, en 4 pasos. Botón verde Nueva venta.",
+        "Paso 1 de 4: toca Nueva venta, el botón verde del Inicio.",
+        "Paso 2 de 4: toca o escanea los productos. Ejemplo de carrito con arroz, aceite y café.",
+        "Paso 3 de 4: elige para quién es la venta. Consumidor final o un cliente de tu lista.",
+        "Paso 4 de 4: cobra. Ejemplo de total de RD$ 1,135.00 con los botones Exacto en efectivo y Cobrar.",
+        "Guárdalo para tu primera venta. Escríbenos por mensaje directo si te trabas. Link en la bio."
+      ],
+      "caption": "Tu primera venta en PymeFácil, en 4 pasos:\n\n1. Toca Nueva venta en el Inicio.\n2. Toca o escanea los productos. Cada toque suma uno al carrito.\n3. Déjala en Consumidor final o elige un cliente de tu lista.\n4. Toca Cobrar. Si te pagan justo en efectivo, toca Exacto y listo.\n\nGuarda este post para tenerlo a mano. ¿Te trabaste en algún paso? Escríbenos por mensaje directo.\n\n#PymeFácil #PymesRD #NegociosRD #PuntoDeVenta #EmprendedoresRD #RepúblicaDominicana"
+    },
+    {
+      "id": "2026-12-01-tres-numeros",
+      "status": "draft",
+      "type": "image",
+      "publish_at": "2026-12-01T12:00:00-04:00",
+      "media": ["media/post-tres-numeros.jpg"],
+      "alt_text": "Los 3 números que debes mirar cada día. Ejemplo: vendido hoy RD$ 18,450.00, ticket promedio RD$ 802.17 y facturas vencidas por RD$ 12,300.00.",
+      "caption": "Los 3 números que debes mirar cada día en tu negocio:\n\n• Vendido hoy: te dice si el día va bien o flojo, y cómo vas frente a la semana pasada.\n• Ticket promedio: cuánto te compra cada cliente. Si sube, estás vendiendo mejor, no solo más.\n• Facturas vencidas: el dinero que ya ganaste pero todavía está en la calle. Cóbralo a tiempo.\n\nEn PymeFácil los tres están en el Inicio, apenas abres la app.\n\n#PymeFácil #PymesRD #NegociosRD #TipsDeNegocio #EmprendedoresRD"
+    },
+    {
+      "id": "2026-12-03-tu-pyme",
+      "status": "draft",
+      "type": "carousel",
+      "publish_at": "2026-12-03T12:00:00-04:00",
+      "media": [
+        "media/carrusel-tu-pyme-01.jpg",
+        "media/carrusel-tu-pyme-02.jpg",
+        "media/carrusel-tu-pyme-03.jpg",
+        "media/carrusel-tu-pyme-04.jpg",
+        "media/carrusel-tu-pyme-05.jpg",
+        "media/carrusel-tu-pyme-06.jpg"
+      ],
+      "alt_text": [
+        "Hecha para tu pyme: colmado, ferretería, boutique o salón.",
+        "Colmado: venta en segundos, aviso de stock bajo y lo vendido hoy al abrir la app.",
+        "Ferretería: facturas vencidas, compras a suplidores e inventario al día.",
+        "Boutique: catálogo por categorías, lector de código y cuántos te quedan de cada producto.",
+        "Salón: agenda de citas por día y por estilista, y paquetes de servicios.",
+        "¿Cuál es tu negocio? Cuéntanos en los comentarios. Link en la bio."
+      ],
+      "caption": "Colmado, ferretería, boutique o salón: PymeFácil se adapta a tu negocio.\n\n• Colmado: despacha rápido y que no te falte lo que más vendes.\n• Ferretería: sabe quién te debe y qué compras vienen en camino.\n• Boutique: tu catálogo por categorías, con o sin lector de código.\n• Salón: tu agenda de citas por estilista, en una sola vista.\n\n¿Cuál es tu negocio? Cuéntanos en los comentarios y te decimos cómo sacarle provecho.\n\n#PymeFácil #PymesRD #NegociosRD #ColmadosRD #EmprendedoresRD #RepúblicaDominicana"
     }
   ]
 }

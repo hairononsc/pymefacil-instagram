@@ -8,7 +8,8 @@ import fake_graph
 ROOT = Path(__file__).resolve().parent.parent
 srv = fake_graph.start(); port = srv.server_address[1]
 tmp = Path(tempfile.mkdtemp())
-cal = json.loads((ROOT / "calendar.json").read_text())
+cal = json.loads((ROOT / "calendar.json").read_text(encoding="utf-8"))
+cal["posts"] = cal["posts"][:3]  # la prueba usa las 3 piezas originales; las nuevas no cambian el escenario
 for p in cal["posts"]:
     p["status"] = "approved"; p["publish_at"] = (datetime.now(timezone.utc) - timedelta(hours=1)).isoformat()  # vencidas hace 1 h
 cal["posts"][0]["publish_at"] = "2099-01-01T12:00:00-04:00"                 # futura: no debe salir
